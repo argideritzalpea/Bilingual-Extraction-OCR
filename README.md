@@ -22,7 +22,7 @@ This project uses Tesseract OCR and fastText to extract both glossaries and mult
 
 
 You may need to explicitly set your Python encoding to be UTF-8. From the command line:
-`export PYTHONIOENCODING=UTF8'
+`export PYTHONIOENCODING=UTF8`
 
 ########
 
@@ -31,14 +31,14 @@ You may need to explicitly set your Python encoding to be UTF-8. From the comman
 # Convert2PNG.py
 This script is run on a PDF image (e.g. digital version of PeaceCorp language manual, etc.) to convert and copy each page into PNG format into a user-defined directory. This step is necessary to run the extract.py preprocessing step.
 
-`python Convert2PNG.py -i [path_of_PDF_language_resource] -o [path_of_output_folder_of_PNG_images] -x [specify_pages_to_convert (e.g. 5-15)]`
+`python Convert2PNG.py -i [path_of_PDF_language_resource] -o [path_of_output_folder_of_PNG_images] -x [specify_pages_to_convert (e.g. 5-15)] `
 
 # extract.py
 This script calls a directory of PNG images on which to run OCR processing. It accepts the output of `Convert2PNG.py` as input, and returns a folder of files in .pkl format. This script must be run before running the next script, generateDictionaryV2.py. The output should be 3 pkl files for each PNG in the input folder.
 
-'python extract.py -i [input_folder_of_PNG_images]' -o '[output_folder_of_pkl_files]'
+`python extract.py -i [input_folder_of_PNG_images]' -o '[output_folder_of_pkl_files]`
 
 # generateDictionaryV2.py
 This is the main script that converts Tesseract 4.0 output into a Python dictionary.
 
-'python ./generateDictionaryV2.py -i [input_folder_of_pkl_files] -b [MeanShift_quantile_threshold (experiment with values of .02 and .03)] -o [name_of_output_dictionary] > [path_of_log_and_error_file]'
+`python ./generateDictionaryV2.py -i [input_folder_of_pkl_files] -b [MeanShift_quantile_threshold (experiment with values of .02 and .03)] -o [name_of_output_dictionary] > [path_of_log_and_error_file]'
