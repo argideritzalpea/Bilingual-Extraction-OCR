@@ -21,8 +21,6 @@ https://github.com/tesseract-ocr/
 You may also need to explicitly set your Python encoding to be UTF-8. From the command line:
 `export PYTHONIOENCODING=UTF8`
 
-########
-
 # Usage:
 
 # Convert2PNG.py
