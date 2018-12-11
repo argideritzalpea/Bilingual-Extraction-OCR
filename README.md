@@ -2,8 +2,6 @@
 Tools to extract bilingual dictionaries or translations from PDF or other formats.
 This repo contains code for OCR table extraction of Latin unicode. It will be further update to supported extraction of character sets according to input language in excess of basic Latin characters.
 
-#########
-
 # Overview
 
 This README describes a pipeline for extracting bilingual dictionaries from scanned documents.
@@ -13,8 +11,6 @@ This project uses Tesseract OCR and fastText to extract both glossaries and mult
 2. `Convert2PNG.py` is run to convert the file into a readable format for Tensorflow.
 3. `extract.py` is run taking as input the converted PNG files from the last script. The output of hocr.py are a series of .pkl files that are stored in a user defined directory. This step requires Tensorflow 4.0 for optimal results.
 4. The folder containing the .pkl files is passed to `generateDictionaryV2.py`. This script analyzes the output from Tensorflow to form a dictionary of bilingual data contained in columnar format. It emphasizes precision over recall to reduce the influence of erroneous data for downstream tasks.
-
-########
 
 # Preparation
 
