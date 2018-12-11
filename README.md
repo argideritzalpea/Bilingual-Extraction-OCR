@@ -18,10 +18,11 @@ This project uses Tesseract OCR and fastText to extract both glossaries and mult
 
 # Preparation
 
+Create a virtual environmentment and install dependencies contained in `requirements.txt`. fastText and Tesseract 4.0 may require you to go through a hands-on installation process. The repositories and installation instructions are found at the following links:
+https://github.com/facebookresearch/fastText/tree/master/python
+https://github.com/tesseract-ocr/
 
-
-
-You may need to explicitly set your Python encoding to be UTF-8. From the command line:
+You may also need to explicitly set your Python encoding to be UTF-8. From the command line:
 `export PYTHONIOENCODING=UTF8`
 
 ########
