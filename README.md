@@ -37,7 +37,7 @@ This script is run on a PDF image (e.g. digital version of PeaceCorp language ma
 ### extract.py
 This script calls a directory of PNG images on which to run OCR processing. It accepts the output of `Convert2PNG.py` as input, and returns a folder of files in .pkl format. This script must be run before running the next script, generateDictionaryV2.py. The output should be 3 pkl files for each PNG in the input folder.
 
-`python extract.py -i [input_folder]' -o '[output_folder]`
+`python extract.py -i [input_folder] -o [output_folder]`
 
 ```
 -i : Input folder of PNG images
