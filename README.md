@@ -41,4 +41,4 @@ This script calls a directory of PNG images on which to run OCR processing. It a
 # generateDictionaryV2.py
 This is the main script that converts Tesseract 4.0 output into a Python dictionary.
 
-`python ./generateDictionaryV2.py -i [input_folder_of_pkl_files] -b [MeanShift_quantile_threshold (experiment with values of .02 and .03)] -o [name_of_output_dictionary] > [path_of_log_and_error_file]'
+`python ./generateDictionaryV2.py -i [input_folder_of_pkl_files] -b [MeanShift_quantile_threshold (experiment with values of .02 and .03)] -o [name_of_output_dictionary] > [path_of_log_and_error_file]`
