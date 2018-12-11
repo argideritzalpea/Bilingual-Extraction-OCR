@@ -44,9 +44,11 @@ This is the main script that converts Tesseract 4.0 output into a Python diction
 
 `python ./generateDictionaryV2.py -i [input_folder] -b [quantile_threshold] -o [output_dictionary] > [log/error_file]`
 
+```
 -i : Input folder of .pkl files containing the output of `extract.py`
 -b : Number to pass to the sklearn MeanShift algorithm to determine column alignment (default is .02, values between .02-.03 worked best in testing)
 -o : Name of output dictionary in .csv format
 -l : Source language in two-character ISO language code format to help align dictionary (default is English)
 -t : Target language in two-character ISO language code format to aid post-processing (IN DEVELOPMENT)
 -s : List of pages to skip separated by whitespace. Accepts single indices or ranges of indices (i.e. 5-7) that correspond to input file ID numbers
+```
