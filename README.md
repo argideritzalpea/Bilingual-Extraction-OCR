@@ -1,6 +1,6 @@
 # Bilingual-Extraction-OCR
 Tools to extract bilingual dictionaries or translations from PDF or other formats.
-This repo contains code for OCR table extraction of Latin unicode. It will be further update to supported extraction of character sets according to input language in excess of basic Latin characters.
+This repo contains code for OCR table extraction of Latin unicode.
 
 ## Overview
 
