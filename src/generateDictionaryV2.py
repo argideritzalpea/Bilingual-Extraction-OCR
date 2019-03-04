@@ -75,7 +75,7 @@ class DictionaryFactory:
     """
     Defines a class that processes HOCR and other data output from Tesseract 4.0 using..
     """
-    def __init__(self, input_df, mean_shift_thresh=bandwidth_q):
+    def __init__(self, input_df, basefilename, mean_shift_thresh=bandwidth_q):
         """
         Initializes the factory.
         :input_pkl: pkl file that contains the hocr data in pandas df format
@@ -87,11 +87,14 @@ class DictionaryFactory:
             mean_shift_thresh = float(mean_shift_thresh)
         self._raw_hocr = input_df
         #self._line2members = self._raw_hocr.groupby('line')['text'].apply(lambda g: g.values.tolist()).to_dict()
-        self._l_lookup, self._line2members, self._members2line, self._l_lookup_val = cluster1d(input_df, "top", "line", mean_shift_thresh)
-        self._c_lookup, self._col2members, self._members2col, self._c_lookup_val = cluster1d(input_df, "left", "column", mean_shift_thresh)
+        self._c_lookup, self._col2members, self._members2col, self._c_lookup_val, self._line2heights = cluster1d(input_df, "left", "column", mean_shift_thresh)
+        self._l_lookup, self._line2members, self._members2line, self._l_lookup_val, self._line2heights = cluster1d(input_df, "top", "line", mean_shift_thresh)
+        #self._c_lookup, self._col2members, self._members2col, self._c_lookup_val, self._line2heights = cluster1d(input_df, "left", "column", mean_shift_thresh)
         #self._lines = [Line(self, x) for x in self._line2members]
         #self._column = [Column(self, x) for x in self._col2members]
-        
+        #self._line_heights = self._raw_hocr.groupby(['line_num'], as_index=False).mean().groupby('line_num')['top'].mean()
+        self._basefilename = basefilename
+
     def countByCol(self):
         data = self._col2members
         dict = Counter()
@@ -346,32 +349,33 @@ class DictionaryFactory:
         delete = set()
         for linenum in self._line2column_pertinence:
             outdict.setdefault(linenum, {})
-            print("")
-            print(linenum)
-            print("RANGEDICT")
-            print(rangedict)
+            #print("")
+            #print(linenum)
+            #print("RANGEDICT")
+            #print(rangedict)
             for range in rangedict:
                 if linenum >= range[0] and linenum <= range[1]:
-                    print(list(chunks(rangedict[range], 2)))
+                    #print(list(chunks(rangedict[range], 2)))
                     for idx, group in enumerate(list(chunks(rangedict[range], 2))):
                         ### Find upper limit if chunk not in last column table (group)
                         try:
-                            print("rangedict value: ", rangedict[range], "index: ", idx)
+                            #print("rangedict value: ", rangedict[range], "index: ", idx)
                             if idx == 0:
                                 stopcol = rangedict[range][(idx+1) * 2] - 2
                             elif idx == len(list(chunks(rangedict[range], 2))):
                                 stopcol = False
                             else:
                                 stopcol = rangedict[range][(idx+1) * 2 + 1] - 2
-                            print("Obtained stopcol: ", stopcol)
+                            #print("Obtained stopcol: ", stopcol)
                         except:
                             stopcol = False
-                            print("Couldn't get stopcol - going to the end")
+                            #print("Couldn't get stopcol - going to the end")
                         try:
                             firstcol = group[0]
                             secondcol = group[1]
-                            print("got columns: ", firstcol, secondcol)
+                            #print("got columns: ", firstcol, secondcol)
                         except:
+                            
                             print("couldn't get columns")
                         try:
                             first = data.loc[(data['line'] == linenum) & (data['column'] >= firstcol) & (data['column'] < secondcol), 'text'].str.cat(sep=' ')#, self._raw_hocr['text']].str.join(' ')
@@ -379,23 +383,23 @@ class DictionaryFactory:
                                 second = data.loc[(data['line'] == linenum) & (data['column'] >= secondcol) & (data['column'] <= stopcol - 2), 'text'].str.cat(sep=' ')
                             else:
                                 second = data.loc[(data['line'] == linenum) & (data['column'] >= secondcol), 'text'].str.cat(sep=' ')
-                            print("Succeeded in getting column words: ", first, second)
-                            print("Trying to descend with:", first, second, linenum, firstcol, secondcol, stopcol, idx)
+                            #print("Succeeded in getting column words: ", first, second)
+                            #print("Trying to descend with:", first, second, linenum, firstcol, secondcol, stopcol, idx)
                             try:
                                 #n_firstcol = data.loc[(data['line'] == linenum+1) & (data['column'] >= firstcol) & (data['column'] < secondcol), 'text'].str.cat(sep=' ')#, self._raw_hocr['text']].str.join(' ')
                                 #n_secondcol = data.loc[(data['line'] == linenum+1) & (data['column'] >= secondcol), 'text'].str.cat(sep=' ')
-                                print("Descending...")
+                                #print("Descending...")
                                 fir, sec = combineMultiColumn(first, second, linenum, firstcol, secondcol, stopcol, idx)
-                                print("Final output is : ", [fir, sec])
+                                #print("Final output is : ", [fir, sec])
                                 if fir != ' ' and sec != ' ':
                                     outdict[linenum].setdefault(idx, None)
                                     outdict[linenum][idx] = [fir, sec]
                             except Exception as e:
-                                print(e)
+                                #print(e)
                                 traceback.print_exc()
-                                print("Couldn't descend...")
+                                #print("Couldn't descend...")
                                 if first != ' ' and second != ' ':
-                                    print("Final output is : ", [first, second])
+                                    #print("Final output is : ", [first, second])
                                     outdict[linenum].setdefault(idx, None)
                                     outdict[linenum][idx] = [first, second]
                         except:
@@ -412,8 +416,8 @@ class DictionaryFactory:
                 print(e)
 
 
-
-        finaldictionary = OrderedDict()
+        #print(self._line_heights)
+        finaldictionary = []
         for listicle in outdict:
             print(listicle, " : ", outdict[listicle])
             for group in outdict[listicle]:
@@ -424,10 +428,12 @@ class DictionaryFactory:
                 except:
                     pass
                 if first != "" and second != "":
-                    finaldictionary[first.strip()] = second.strip()
+                    finaldictionary.append([first.strip(), second.strip(), self._line2heights[listicle], self._basefilename]) 
         
         self._pre_dictionary = finaldictionary
-
+        #print("final_dictionary____")
+        #print(finaldictionary)
+        
         return finaldictionary
 
 
@@ -454,14 +460,15 @@ def cluster1d(data, pixel_array_name, new_col_name, quant):
     lookup = {}
     line2members = OrderedDict()
     members2line = OrderedDict()
+    line2heights = OrderedDict()
     lookup_val = {}
     for k in range(n_clusters_):
         my_members = labels == newlabelindex[k]
         #print("cluster {0}: {1}".format(k, X[my_members, 0]))
         members = [v for v in hocr.loc[my_members, "text"]]
-        #print(members)
-        #print('')
+        heights = [v for v in hocr.loc[my_members, "top"]]
         line2members[k] = members
+        line2heights[k] = np.median(heights)
         lookup[k] = my_members
         lookup_val[k] = X[my_members, 0]
         joined = " ".join([b for b in members if isinstance(b, str)])
@@ -469,12 +476,12 @@ def cluster1d(data, pixel_array_name, new_col_name, quant):
         #print(x.shape)
         data.loc[my_members, new_col_name] = k
 
-    return lookup, line2members, members2line, lookup_val
+    return lookup, line2members, members2line, lookup_val, line2heights
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 20)
 
-newDictionary = {}
+newDictionary = []
 fulfilled = 0
 for f in sorted(os.listdir(in_dir)):
     basefilename = f.strip('.pkl')
@@ -493,7 +500,7 @@ for f in sorted(os.listdir(in_dir)):
             sortShorties(content)
             deleteBlanks(content)
             #print(content)
-            h = DictionaryFactory(hocr)
+            h = DictionaryFactory(hocr, basefilename)
             h.removeBeginningNAs()
             h.removeListMarker()
             h.removeAllPunct()
@@ -503,12 +510,14 @@ for f in sorted(os.listdir(in_dir)):
             h.findTableBlocks()
             outdict = h.returnDictionaryItems()
             fulfilled += 1
-            h.printHOCR()
+            #h.printHOCR()
+            #print(h._line2heights)
             for x in outdict:
-                print(x, '\t', '\t', outdict[x])
+                print(x)
             print('\n\n\n')
-            newDictionary.update(outdict)
+            newDictionary.extend(outdict)
         except:
+            print(h._line2heights)
             print('didn"t work')
             traceback.print_exc()
         print('')
@@ -517,6 +526,6 @@ for f in sorted(os.listdir(in_dir)):
 
 
 with open(out_dict_arg+'.csv', 'w', encoding='utf-8') as csv_file:
-    writer = csv.writer(csv_file)
-    for key, value in newDictionary.items():
-        writer.writerow([key, value])
+    writer = csv.writer(csv_file, dialect="excel-tab")
+    for entry in newDictionary:
+        writer.writerow(entry)
