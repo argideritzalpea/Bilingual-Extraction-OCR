@@ -1,0 +1,924 @@
+Ndiamo, buwaa	Hello, friend	1940.0	MendeManual-10
+Mm, buwaa, bi sic	Helle	1998.0	MendeManual-10
+Gboo bi ngahun?	How are you? e	2115.0	MendeManual-10
+Kaye i] Ngewo ma, o biabec?	I'm well, and you?	2171.0	MendeManual-10
+Nya bee kaye ii Ngewo ma malo boma.	I’m well too	2288.0	MendeManual-10
+E-ye mals hoe	O.k. we shall see	2463.5	MendeManual-10
+Kahuin ye na?	How are you?	2701.0	MendeManual-10
+Nya ngahun gbuango	I’m well	2756.0	MendeManual-10
+09 bi waa	Hello (answering a greeting}	2816.5	MendeManual-10
+Mm, ke ta mia	O.k. we shall see	2877.0	MendeManual-10
+Ngenda tetei	Early morning	365.0	MendeManual-12
+Ngendei-	Morning	422.0	MendeManual-12
+Folihun	Afternoon	482.5	MendeManual-12
+Kpoks	Evening	542.0	MendeManual-12
+Fitiina	Twilight	601.0	MendeManual-12
+Kpindi	Night	659.0	MendeManual-12
+Ndiamo	Friend	1604.0	MendeManual-12
+Kanteh buaa	Hello Conteh a	1525.0	MendeManual-13
+Mm, buaa bi sic	Hells	1589.5	MendeManual-13
+Ndaké nya longa bi	[want you to show me the	1690.0	MendeManual-13
+nge	the	1832.0	MendeManual-13
+gblanga kee	Court Barrie, but I under-	1919.0	MendeManual-13
+koo. keleke bi	I don’t know, except you go to	2273.0	MendeManual-13
+Fo ngil ye peela bi	his house	2352.0	MendeManual-13
+A wuwaa moi bi waa ye peela lo?	Hello	2719.0	MendeManual-13
+sange gbe	Yes, he has just come,	2976.0	MendeManual-13
+ngi ngi loi	let me call	3046.0	MendeManual-13
+Hele	Elephant	575.0	MendeManual-15
+Helei Pelei Naopoi	The Elephant _° house child	575.0	MendeManual-15
+Pele	House	635.0	MendeManual-15
+Ndopo	Child	693.0	MendeManual-15
+Sani	Bottle	754.0	MendeManual-15
+Sanii	bettle	754.0	MendeManual-15
+Bulu	Horn	814.0	MendeManual-15
+Bului	horn	814.0	MendeManual-15
+Bolo	Rat	874.0	MendeManual-15
+Boloi	hat	874.0	MendeManual-15
+Mba	Rice	1403.5	MendeManual-15
+Mbei	The rice	1403.5	MendeManual-15
+Haa	Death	1460.0	MendeManual-15
+Haei	The death	1460.0	MendeManual-15
+Meme	Mirror	1883.0	MendeManual-15
+Memec	The mirror	1883.0	MendeManual-15
+Ndola	Baby	1938.0	MendeManual-15
+Ndolaa	The baby	1938.0	MendeManual-15
+Kaga	Box	1996.0	MendeManual-15
+Kajaa	The box	1996.0	MendeManual-15
+Maha	Chief	2650.0	MendeManual-15
+Mahangaa	Chiefs	2650.0	MendeManual-15
+“Ndilingaa	Houseflies	2707.0	MendeManual-15
+Hele	Elephant	2764.0	MendeManual-15
+Helengaa	Elephants	2764.0	MendeManual-15
+Ndopo	Child	2825.5	MendeManual-15
+Ndopongaa	Children	2825.5	MendeManual-15
+Mahangeisia	The chiefs	3060.5	MendeManual-15
+also Maheisia	‘The chiefs	3060.5	MendeManual-15
+Ndiligeisia	The houseflies	3120.0	MendeManual-15
+Ndilisia	me house- e	3120.0	MendeManual-15
+Sualeni	Swaray and others	634.0	MendeManual-16
+Isani	Issa and others	697.5	MendeManual-16
+Wuani we luwa	People like you don’t fear	1112.0	MendeManual-16
+Tiani te nafa	People like them cannot prosper	1172.0	MendeManual-16
+Me	Eat	2238.0	MendeManual-16
+Meno	Eater (Indefinite singular}	2238.0	MendeManual-16
+Ngengemoi	The worker (Definite singuiar)	2408.5	MendeManual-16
+Meblaa	Eaters {Indefinite plural}	2699.0	MendeManual-16
+Pieblaa	Doers (Indefinite plural)	2760.5	MendeManual-16
+Ngengebleisia	The workers (Definite plural)	2878.0	MendeManual-16
+Mebleisia	The eaters (Definite plural)	2939.0	MendeManual-16
+Piebleisia	The doers (Definite plural).	2998.0	MendeManual-16
+Ngengemoi waa mehe yiimol gama	The worker has come to the cook...	3114.0	MendeManual-16
+Pee loblaa io mia	The house builders are there	3228.0	MendeManual-16
+Nya	ist per sing	1573.5	MendeManual-17
+I	Ngi 14 ngii I not	1573.5	MendeManual-17
+The negative	forms occur with the negative particle	2042.0	MendeManual-17
+2. Bia lima Bo	You are going to Bo	2519.0	MendeManual-17
+3. Ta lime Bo	Re/she is going to Bo	2575.5	MendeManual-17
+4. Mua lima Bo	We are going to Bo	2638.0	MendeManual-17
+Wua lima Bo	You are going to Bo	2697.0	MendeManual-17
+6. Tia lima Bo	They are going to Bo	2757.0	MendeManual-17
+1. Noii lima Bo	I’m not going to Bo	2992.0	MendeManual-17
+2. Bii lima Bo	You are not going to Bo	3052.0	MendeManual-17
+3. Ii lima Bo	He is not going to Bo	3109.0	MendeManual-17
+4. Mui lima Bo	We are not going to Bo	3167.0	MendeManual-17
+5. Wui lima Bo	You are not going to Bo	3226.0	MendeManual-17
+6. Tii lima Bo	They are not going to Bo	3283.0	MendeManual-17
+i. Nga kpaa yengei lo we	I do farm work	1196.5	MendeManual-18
+2. Nga mbei nee	I eat rice	1261.0	MendeManual-18
+3. Ba tisa yengei lo we	You do a teaching work	1318.0	MendeManual-18
+4. nd@owei bos	He digs a hole	1378.0	MendeManual-18
+5. Ma dodei mee	We eat pig	1440.0	MendeManual-18
+6. Wa kpetei laa	You make swamp	1496.0	MendeManual-18
+7. Ta hale yengei Is we	They do health word	1552.0	MendeManual-18
+Negative Forms Occur with verb	stems	1677.0	MendeManual-18
+1. Nge kpaa yenge we	2 don’t do farm work	1796.0	MendeManual-18
+2. Nge mba me	I don’t eat rice	1850.0	MendeManual-18
+Bettisa	You don’t do teaching work	1895.0	MendeManual-18
+4. E ndowa bo	He does not dig a hole	1964.0	MendeManual-18
+5. Mue ndode me	We don’t eat pig	2027.0	MendeManual-18
+6. Wue kpete la	You don’t make swamp	2083.0	MendeManual-18
+4. Nga mbei melo sina	I shall eat rice tomorrow	2560.5	MendeManual-18
+2. Nga wals	I shall come	2617.0	MendeManual-18
+3. Ta kpiti hawals wei	The will brush the grass	2677.0	MendeManual-18
+Nge mba me sina	Twill not eat rice tomorrow	2971.0	MendeManual-18
+2. Nge wa	I shail not come	3031.0	MendeManual-18
+3. Te kpiti hawe wei	They will not brush the grass	3089.0	MendeManual-18
+precedes then.	_ One can also call them a-pronouns. They	925.0	MendeManual-19
+Nge	Me	1228.0	MendeManual-19
+Bie	You	1283.5	MendeManual-19
+Ngie	Her/Hin	1345.0	MendeManual-19
+Mue	Us	1406.0	MendeManual-19
+Wue	You	1467.0	MendeManual-19
+Tie	Them	1524.0	MendeManual-19
+Ya, Ni	Negative Markers	1700.0	MendeManual-19
+1. Hindo lo a nge	I ama man	1948.0	MendeManual-19
+2. Gbe bi longo a tie?	Why do you like them	2003.0	MendeManual-19
+3. A na we a mue	Do that to us	2067.0	MendeManual-19
+4. ¥o a ngie?	Who is he?	2122.0	MendeManual-19
+1. Hindo yaa a nge	JI am not man	2360.5	MendeManual-19
+Gbe bij loni a tie?	Why don't you like them	2416.0	MendeManual-19
+Nya longs la	I jike it	2884.5	MendeManual-19
+Nya longs a ngte	I liove him	2943.0	MendeManual-19
+Nyapoi na nya longo la	That woman If like her	3002.5	MendeManual-19
+Mende	Orthography a a	907.0	MendeManual-2
+Ndake bia naa	Afternoon friend	1469.0	MendeManual-21
+Mm bi sie, kahuin yena?	Hi, how are you?	1529.0	MendeManual-21
+Nya ngahun gbuango-	I'm quite well	1640.5	MendeManual-21
+Bi lei?	What is your name?	1709.0	MendeManual-21
+a nge	Peace Corps Volunteer	1883.0	MendeManual-21
+Ngi gbua Ameika lo	I come from America	2063.0	MendeManual-21
+yongs mahun naani	old	2299.0	MendeManual-21
+Ba gbe yenge 15 we?	What work do you do?	2358.0	MendeManual-21
+Nga hale yengei lo we	I am a health worker	2475.5	MendeManual-21
+Mi gbe mia bi wei ndoe	When did you come to this	2534.0	MendeManual-21
+lo i gboyonga	I came last month	2772.0	MendeManual-21
+Bi sic, KE mals	Thanks, see you then	2830.0	MendeManual-21
+E-ye	O.k.	2951.0	MendeManual-21
+Bi ye ghua?	Where are you coming from?	3300.0	MendeManual-21
+Hgi laa	His/her name is	532.5	MendeManual-22
+Wu laa	Your name is	652.0	MendeManual-22
+Mu laa	Our name is	591.5	MendeManual-22
+Ti laa	Their name is	713.0	MendeManual-22
+Doktea mia a nge	I ama doctor.	832.0	MendeManual-22
+Tisa mia a bie	You are a teacher	891.0	MendeManual-22
+Kpaa la moi mia a ble	You are a farmer	947.5	MendeManual-22
+Dokta ya a nge	I am not a doctor	1070.0	MendeManual-22
+Tisa ya a bie	You are not a teacher	1127.0	MendeManual-22
+Kpaa la mo ya a bie	You are not a farmer	1187.0	MendeManual-22
+Huan mahun gbe mo mia a nge	I am in the Parks/ I ama	1301.5	MendeManual-22
+Tisa mia a ngie	He is a teacher	1421.5	MendeManual-22
+ange	J am not a Parks worker	1591.5	MendeManual-22
+Tisa ya a ngie	He is net a teacher	1654.0	MendeManual-22
+I gbua mi 197 —_	Where is he/she coming	1767.5	MendeManual-22
+Bi maa mi 17	Where are you going to?	1893.0	MendeManual-22
+Ngi ma teihun lo	I am going to town	1949.0	MendeManual-22
+Kabala	Ngi gbia Amceika 15	2227.0	MendeManual-22
+Kenema	Ngi lima teihun lo	2343.5	MendeManual-22
+Salon	Freetown/Sierra Leone	2411.0	MendeManual-22
+Teihun	Town	2591.0	MendeManual-22
+Sukuihun	School	2648.0	MendeManual-22
+Kpaahun	Farm	2710.0	MendeManual-22
+Haiwebu	Hospital	2766.5	MendeManual-22
+Ndoweihun	Market day	2824.5	MendeManual-22
+Kpaa	Nga. hale yengei lo we	2935.0	MendeManual-22
+Stive#buwaae, ndake	Hello! Steve	1423.5	MendeManual-23
+kahuin?	you?	1545.5	MendeManual-23
+Bi ndegaa ti lols?	How many brothers and	252.0	MendeManual-24
+Nya ndegaa ti naani hingaa ti fele ke nya-	I have four, two brothers and two sisters	371.0	MendeManual-24
+Nva ndé nyahangaa sia le lima suku. Nva nde. hingaa tia ti kpoyoa 4 gukat, tia na yenge ma	My sisters are still attend- ing school. My brothers have finished school, they are now working	731.0	MendeManual-24
+Ke bi sie hoe	Thank you then	1040.0	MendeManual-24
+E-ye ke malo	O.k. see you	1096.5	MendeManual-24
+Bi nde lo	This is a brother to you	1383.0	MendeManual-24
+Bi ndii lo	This is your brother	1448.5	MendeManual-24
+Bi nde nyahan jols	This is a sister to you	1507.0	MendeManual-24
+Bi nde nyahanioi ls	This is your sister	1571.5	MendeManual-24
+Bi nde hindoi lo	This is. your brother	1689.0	MendeManual-24
+Bi keke	Your father	1745.5	MendeManual-24
+Bi nje	Your mother	1802.5	MendeManual-24
+Bi kenya	Your uncle	1861.5	MendeManual-24
+Nya	My.	2139.0	MendeManual-24
+Bi	Your	2217.5	MendeManual-24
+Ngi Mu	His/hers/its our	2271.0	MendeManual-24
+Wu	Your	2394.0	MendeManual-24
+TA	Their	2462.0	MendeManual-24
+Nya lomei nohongo”	My shirt is dirty	2564.0	MendeManual-24
+Nya lomei ii nohoni	My shirt is not dirty	2631.0	MendeManual-24
+Bi ndei lo	This is your brother 7	2746.0	MendeManual-24
+Bi nde ya ji Ngi keke ya teihun	Fhis is not your brother oo. His father has gone to town	2802.0	MendeManual-24
+Ngi keke 11 13 ni Yeshun-	His father did not go to’ town	2978.0	MendeManual-24
+Ti leinun ya sewesewe	Their town is clean	3099.5	MendeManual-24
+7 leihun ii sewesewei	Their town is not clean	3155.0	MendeManual-24
+Bargaining beat down certain food	is common among the Mendes.	795.0	MendeManual-30
+Yie bia naa	Afternon, mun	1528.0	MendeManual-30
+Mm, nya lui bia naa	Yea, afternoon my child	1583.0	MendeManual-30
+Gboo nga pie bie?	What can I do for you?	1633.0	MendeManual-30
+Tee ngei jisia ti	Wheat is the cost of these	1748.0	MendeManual-30
+Ti baa gba ngoi yo	They are expensive though	2058.0	MendeManual-30
+Gbenjongs mia bi yeya?	How much do you have?	2227.0	MendeManual-30
+Pon numugboyongs mahun	I have Le3d.00	2343.5	MendeManual-30
+Pon. loolu glua na ma	Add Le10.00 to that	2468.0	MendeManual-30
+Kone le ngi	Please let me pay that.	2577.0	MendeManual-30
+Ke wa la	Bring it then	2700.0	MendeManual-30
+Taghe,. baika hoe	Here it is, thank you..	2811.5	MendeManual-30
+Nya ndijiamo mia a bie na	You are now my friend	2877.5	MendeManual-30
+E~ye mals	Oo.k, see you	2935.0	MendeManual-30
+Tei gbe jongo?	How much is the fowl?	3226.5	MendeManual-30
+Pon loolu gbei na ma.	Add Le10.00 to that ve	3339.5	MendeManual-30
+Be tenga gbua ma nya	‘Won't you reduce the price	3464.0	MendeManual-30
+Bonds hapkei mia ha nga me	I am going to eat okra	2098.0	MendeManual-32
+Le	go up	840.5	MendeManual-36
+Wa	Come	957.0	MendeManual-36
+Gi	Go	1073.0	MendeManual-36
+La have	Lie down	1188.0	MendeManual-36
+Single Forns	Reduplicated Forms	755.5	MendeManual-38
+Tewe Gut	Tewetewe teetee	875.0	MendeManual-38
+Mbla Tear	Mblamble	933.0	MendeManual-38
+Pote Turn	Potepote	999.0	MendeManual-38
+Faya Scatter	Payafaya	1055.5	MendeManual-38
+Pili Throw	Piiipili	1112.5	MendeManual-38
+Single Forms	Reduplicatad Forms	1351.0	MendeManual-38
+Nohon Dirty	Nohsnohon	1532.5	MendeManual-38
+Ryamu Daly	Nyamunyamn	1595.0	MendeManual-38
+Sawa Three	Sawasawa	1893.0	MendeManual-38
+Pun Ter	Pun puu	1955.0	MendeManual-38
+Fele THO	Felefele	2004.0	MendeManual-38
+Quickly	«Flefio	2229.0	MendeManual-38
+Yelen Slowly	Yelenyelen	2296.5	MendeManual-38
+two	real Kpa& Mende	1386.0	MendeManual-4
+Kpa& Mende	spoken	1386.0	MendeManual-4
+meet the needs of the people. on beard vehicles together animals. Some people especially	People can therefore with livestock and the youhs also	750.0	MendeManual-40
+Nyande/ndake bia naa	Aftexnoon dear	1520.0	MendeManual-40
+Mm huwaa bi sie	Afternoon	1580.0	MendeManual-40
+yeya. Bi ye lima	where are going to this	1758.0	MendeManual-40
+gendei ji?	norning?	1815.5	MendeManual-40
+Ngi lima Moyanba lo	I’m going to Moyamba	1875.0	MendeManual-40
+ya le ma bi to, ‘bi moli	when any vehicle comes by,	2169.0	MendeManual-40
+mia i lime na	stop in and enquire where it	2223.0	MendeManual-40
+Deva buaa, bi lima	Hello driver, where are	2576.0	MendeManual-40
+Ngi lima Moyamba ls	I’m going to Moyamba	2809.5	MendeManual-40
+WNya be ngi lima nals	I’m also going there	2872.0	MendeManual-40
+Ghe jogo mia li va?	What is the fare to go	2986.0	MendeManual-40
+Pon nunaani gbogs	Hundred and sixty leones	3097.5	MendeManual-40
+	Please let me pay and thirty leones	322.5	MendeManual-41
+	"Ndake na glo g5, pon ""oe loolu ja ma ten leones"	468.0	MendeManual-41
+Hakaa bi yeya?   wui ji mia Duvu bagi	Do you only have this small yafia bag. I can put it	704.0	MendeManual-41
+Nga ye pie ngi motoi	How can I get a vehicle?	411.5	MendeManual-42
+Mindo ma moto lo?	Where is this vehicle from/going to?	587.5	MendeManual-42
+Motoi ji ye lima?	Where is this vehicle going to?	705.0	MendeManual-42
+Ye moto lo?	Whose vehicle is this?	822.5	MendeManual-42
+Li ange nya gbuja	take ne along	1058.0	MendeManual-42
+Hemaa na nya vaa?	Is there any space for me?	1294.0	MendeManual-42
+Mua lilo suku lo	We go to school swamp	2055.0	MendeManual-42
+lalo	“He a	2301.0	MendeManual-42
+future element	added to	2777.0	MendeManual-42
+Ta walo ha	They today	3106.0	MendeManual-42
+yekeli	day after tomorrow	3391.0	MendeManual-42
+Nya hooma	XY am sewing it	632.0	MendeManual-43
+Wua ndolii gama	Your are dancing going	752.0	MendeManual-43
+Future	oe	988.5	MendeManual-43
+Ngi liis	I went	2110.5	MendeManual-43
+Piskoisia ti pee	The Peace Corps built	2221.0	MendeManual-43
+ils	the house	2278.0	MendeManual-43
+Unelided Word	Elided Sound Elided Word	2858.0	MendeManual-43
+Ndowu	Hide	3042.0	MendeManual-43
+Ww _	Ndou	3042.0	MendeManual-43
+Pele	Road	3101.5	MendeManual-43
+L	Pee 4	3101.5	MendeManual-43
+Ngolo	Break	3156.0	MendeManual-43
+L	Ngoo	3156.0	MendeManual-43
+Ngi lis	I went	576.5	MendeManual-44
+I ndeis	He said it	636.5	MendeManual-44
+Mu mea	We have eaten it Mu meila/menga	698.0	MendeManual-44
+ti waa	have come	816.0	MendeManual-44
+Ngi lima	I am going	1166.0	MendeManual-44
+Ti piema	They are doing it	1223.5	MendeManual-44
+I wonga	It has breken	1282.0	MendeManual-44
+Nya	wama am coming nya wama	1639.0	MendeManual-44
+Klo	in front	1985.0	MendeManual-44
+Mbla	Male in-law	2044.0	MendeManual-44
+This is a. feature of Mande languages. wherein the initial consonants in many words simple lenision. This means that, because similarity, certain consonants change places when in initial position. Normally, such phonetically similar in most respects.	It is a system are mutated by of phonological in some words consonants are	2337.0	MendeManual-44
+Unmutated	Mutated	310.0	MendeManual-45
+K Kali T Towei	G Gali on iL Lowel	433.5	MendeManual-45
+_ N& Ndoli	GL Loli	550.5	MendeManual-45
+Ss Sani	J Jani	609.0	MendeManual-45
+FE Fols ‘Vv	Volo	671.0	MendeManual-45
+Kp Kpaki-	Gb Gbhaki	731.5	MendeManual-45
+Nj Wja	Y Ya	789.0	MendeManual-45
+Mb Mba	B Ba	848.0	MendeManual-45
+P Pele	W Wele	907.0	MendeManual-45
+Ng Ngate	Y Yate	968.0	MendeManual-45
+W	Woli	1028.5	MendeManual-45
+Tokoi	The hand	1848.0	MendeManual-45
+Domei	The shirt	2028.5	MendeManual-45
+Pelei	The house	2199.0	MendeManual-45
+Kpukoi	The bed oe	2379.0	MendeManual-45
+	The bed Mu gbukoisia ti wovaa oe =our beds are old	2379.0	MendeManual-45
+Ja	Water	471.0	MendeManual-46
+Ndo	Child	706.0	MendeManual-46
+Fei	Pot	1066.0	MendeManual-46
+Ngi kpandilo	I heated it	1594.5	MendeManual-46
+Ngi jei gbandils	I heated the water	1658.0	MendeManual-46
+Bi ngvanilo	You washed	1772.5	MendeManual-46
+Bi kluei wuanils	You washed the clothes	1830.5	MendeManual-46
+Mu ndewenilo	We beat {it}	1950.0	MendeManual-46
+Mu ndozi lewenils	We beat the child	2008.0	MendeManual-46
+Kplanga	Near	2299.5	MendeManual-46
+Hi ngi wonma	Sit behind his/her	2650.0	MendeManual-46
+Kakama	By the side	2766.5	MendeManual-46
+Gbeloe	Malaria	677.0	MendeManual-49
+Kpokpos	Cripple/lame	736.0	MendeManual-49
+Nyonye	Measles	794.0	MendeManual-49
+Tsohen bei	_ Tuberculosis	852.0	MendeManual-49
+Tetech	Small pox	907.5	MendeManual-49
+Bandahei/Bumbulei	Elephantiasis	969.0	MendeManual-49
+Luaa	Hernia	1029.0	MendeManual-49
+Fundii	Asthma	1091.0	MendeManual-49
+Vio lohen	Whooping cough	1149.0	MendeManual-49
+Kanyii	Gonnorhea	1207.0	MendeManual-49
+Nohuin	Scabbies	1266.0	MendeManual-49
+Puumui	Blindness	1326.0	MendeManual-49
+Malete	Leprosy	1387.0	MendeManual-49
+Kpalemei	Sore	1445.0	MendeManual-49
+Geli	Uleer	1501.0	MendeManual-49
+Bobui	Small pox	1561.0	MendeManual-49
+Peni	Ringworm	1619.0	MendeManual-49
+Sugbul	Body wide scabbies	1676.0	MendeManual-49
+Ndivui	Small boil	1732.0	MendeManual-49
+Fehani	Tumour	1795.0	MendeManual-49
+Gbeli	Blue boil	1850.0	MendeManual-49
+Kaalei	Abscess muscular contraction	1908.0	MendeManual-49
+Kpoli	A worm of any kind	2026.0	MendeManual-49
+Bali (v)}	To vomit	2143.0	MendeManual-49
+Kale hingbe	Rheumantismn	2200.5	MendeManual-49
+Njii hingbe	Sleeping sickness	2257.0	MendeManual-49
+Populi	Skin diseases leaving white patches	2313.5	MendeManual-49
+Keweli	Yaws	2432.0	MendeManual-49
+the ‘Nonde’ secret society. their strong militery traditions District particularly have a	They are renowned for and those in Moyamba distinct dialect Kpaa	629.0	MendeManual-5
+These people institution ef	have great regards and respect for the	1700.0	MendeManual-5
+befitting hie supreme title. for acquiring Chieftaincy or Kingship	Warfare was a common factor which implied that the	2051.0	MendeManual-5
+sexes.	uO	2692.5	MendeManual-5
+Ngo biana	Afternoon elder brother	1169.5	MendeManual-51
+Mm, ndake bi sie	Hello youngman	1226.5	MendeManual-51
+Ha tene, ta bi tua be fui gbuamaa ha wa	Today is Monday, and it looks like its‘s going to be a sunny day	1401.0	MendeManual-51
+Ee, ngevuihun fui a	That’s right, in the the dry	1636.5	MendeManual-51
+gbua wa, taa nja e	season it hardly rains	1695.5	MendeManual-51
+Ngawu lole va mia ngevui a 1007?	For how many months does the dry season last?	1814.0	MendeManual-51
+A loo ngawu weita valo. A loto lugbu	It lasts for six months. It starts in November and ends in	1990.0	MendeManual-51
+Yyawuihun Io i gbsyo	"April ""os"	2106.0	MendeManual-51
+Mm, ke na woma mia hamil bee a loto?	Is it after that, that the rainy season starts?	2220.5	MendeManual-51
+3, hamihun ta jei a waa wati gbi. Tenga pen numu e€ ngu a jesia a jifa jei a bi Jeli lo	Yes, in the rainy season, it rains almost always. Infact sometimes no one is able to go out because you will get wet in the rain	2398.0	MendeManual-51
+Foe a gbua waa nge vuihun	The sun shines brightly during the dry season	2927.0	MendeManual-51
+Ngau weita va mia a Ilo oh	It lasts for six months	3044.5	MendeManual-51
+Tene	Monday	501.0	MendeManual-52
+Ngawul gbindings Migbe mia bi lima teihun? When Sibitima mia nga 1]i teihun I'll Ful gbadi go waa ha The Kolei lo wama wa ha The Bodui lo waa wama I’m Njei gbii ngo It’s	The moon is dark are you going to town? go to town on Saturday sun is too het today weather is too cold today feeling too hot today cloudy it may rain	1150.0	MendeManual-52
+Hawa	Hour Hawa looiu	1794.0	MendeManual-52
+Ku	Day Ku fele	1853.0	MendeManual-52
+Loo	Day Loo sawa	1913.0	MendeManual-52
+Folo	Day/sun ¥oo gbadi	1968.0	MendeManual-52
+Ngau	Month/moon Ngau puu	2027.0	MendeManual-52
+Ngawui gbindigs	The moon is dark	2205.0	MendeManual-52
+Ngenda vui	Morning sun	2267.0	MendeManual-52
+Foe gbiaa	At sunrise/when the sun is up	2317.5	MendeManual-52
+Foe hingegoihun Foo ngundie	At sunrise noon	2380.0	MendeManual-52
+Kpoks voe	Afternoon/evening	2494.5	MendeManual-52
+Kpindi liei	Midnight	2553.0	MendeManual-52
+Baa jia yelien	Don't walk slowly	3020.0	MendeManual-52
+Wa siahuna	Come now	3082.0	MendeManual-52
+Na mia ngi Jii na	It is there I went	3196.0	MendeManual-52
+Bendo mia ba pie ma	It is here you have to do it	3252.5	MendeManual-52
+Ha is i waa	Yt is today he came	3311.0	MendeManual-52
+Kaaka	Quickly	633.5	MendeManual-53
+Panda	Cautiously, carefully	743.5	MendeManual-53
+Lombolo/gomondo	Sluggishly	808.0	MendeManual-53
+Leecle	Slowly	866.0	MendeManual-53
+Mbe	Here	928.0	MendeManual-53
+Sina	Tomorrow	988.0	MendeManual-53
+Sange	Soon	1046.0	MendeManual-53
+Baaba	Foolishly	1098.0	MendeManual-53
+most distinguishing features.	Unlike most of	1621.0	MendeManual-53
+Iongeyei leweillo kpe	He cut the rope...	1804.5	MendeManual-53
+Fendangs kpa	It is completely full	1859.0	MendeManual-53
+Ngi	I have eaten everything	1918.5	MendeManual-53
+Guii guleilo gbun	The tree	1983.0	MendeManual-53
+Gbelein	Sound like that of a bell’	2796.5	MendeManual-53
+Polon	Far, very far	2862.0	MendeManual-53
+Mi/mindo	Where?	439.0	MendeManual-54
+Migbe	When?	498.5	MendeManual-54
+Lole	How many?	558.0	MendeManual-54
+Gbhei bi lima na? bi wani ndse	Why?	616.0	MendeManual-54
+os Lole mia bi meni?	How many did you eat?	914.0	MendeManual-54
+Gbhei bi ngi hsoni?	Why did you stone him?	974.0	MendeManual-54
+Numu gbayangs ya a nge	E am not a strong person	1331.0	MendeManual-54
+Numu gutu mia	He is a short person	1389.5	MendeManual-54
+Ndapo nyamui ya ha	The ugly child has gone today	1740.0	MendeManual-54
+Pee gbitii loe fTamba lo lumbe lulei mema	Brush the bushy road oranges	1798.0	MendeManual-54
+Mita goweisia mawa	Wash the white spoons	1973.5	MendeManual-54
+Nyandengo He/she/it	is beautiful	2261.5	MendeManual-54
+Ninangs It	is new	2324.0	MendeManual-54
+Govang? It	is old	2383.0	MendeManual-54
+Telings It	is black	2440.0	MendeManual-54
+Mahei mamuningo fhe	chief is proud/arrogant	2498.0	MendeManual-54
+Nyapoi nyandengos The	lady is beautiful	2556.0	MendeManual-54
+Ndomei leingo The	shirt is wet	2615.0	MendeManual-54
+Baa ngengemo hawangoi na go	Don’t give that lazy worker	2967.0	MendeManual-54
+Nika lilengoisia gbe	Drive the angry cows away	3027.0	MendeManual-54
+Masubamo mia a ngie	He is a dangerous person	3258.0	MendeManual-54
+Nyamublaa kpee ti gbua	Let all ugly people go out	3314.0	MendeManual-54
+Hawableisia ti ndei mia	That belongs to the lazy	3371.5	MendeManual-54
+Nyapoi ii nyamuni	The lady is not ugly	764.0	MendeManual-56
+Ngii mbei meni	I did net eat the rice	824.0	MendeManual-56
+Nu yekpe yaa nge	I’m not a good person	1247.0	MendeManual-56
+No nyanu ya tie	They are not bad people	1303.5	MendeManual-56
+I yaa wani le	He hasn’t come yet	1363.5	MendeManual-56
+Mu kpele mulilos keleke Jon	We all went except John	3232.0	MendeManual-56
+Nge pie keleke bi nya pawa	I can’t do it except you	3291.0	MendeManual-56
+lo wie?	do you do?	778.0	MendeManual-57
+Nga nungaaio gaa a nye makelei	I teach people fish farming	840.0	MendeManual-57
+Ea ye ti make?	How is fish farming done?	1017.0	MendeManual-57
+Numu ba dowei io bo kpeteihun, bi hungbua fo	You should dig a pend in swamp and clear it completely	1076.0	MendeManual-57
+Ye dowei a ye lakpa?	How large should the pond	1315.0	MendeManual-57
+Ye gaami a wie lo sia nyoks paa ji ma na. Tawa boma mahugs ye kpetei ji jei i yehun wati gbi	It should be about the should also contain water always	1431.0	MendeManual-57
+Mindoo ba nyengaa majo na puva ye dowei hun?	Where do you get the fish from to put in the pond?	1785.0	MendeManual-57
+Nye leengaalo ndoc jihun kpoto. Nye make- blaa ye pekeisia ta ti gboma	There are fingerlings throughout this country. sell then	1901.0	MendeManual-57
+Gbooa ba fe tue	What do you give them to	2194.0	MendeManual-57
+Ba ti goo a mba gei, ngiingaa, jowolaa, nika kpoi besi kpoi, kee je kpoi bee	Feed them with rice bran, termites, cow dung, pig dung, potato leaves and even excreta of sheep	2309.0	MendeManual-57
+numua ya ti mee?	take before one eats	2662.5	MendeManual-57
+Ta gau naani lo wumbu	They take four months	2780.0	MendeManual-57
+Bia bi ngiigo la ke liloma hinda 10?	Do you think this is a reliable venture?	2895.0	MendeManual-57
+Hinda yekpe lo numu kpeleva	This is a good thing for everyone	3010.5	MendeManual-57
+Ke nya be ngi tatoma a nyegaa make la	Then I am also going to start fish farming	3182.0	MendeManual-57
+Nga gohun a nec gbova bi ma	I will be very happy to help you	3300.0	MendeManual-57
+Tisa buwae	Good morning teacher	1575.0	MendeManual-60
+Kini buwae bi sie gbo jia a bie?	Good morning sir, how are you what is your mission?	1636.5	MendeManual-60
+Ngi wa nye loi 1s hinda hungbe ma	I've come to enquire about my child	1812.0	MendeManual-60
+A gbe..	What for be	1932.0	MendeManual-60
+sukuihun	behaviour in school	2099.0	MendeManual-60
+Bi loi biyei?	What is your child’s name?	2161.5	MendeManual-60
+Ngi laa Buakei Sama	His name is Bockarie Sama	2281.0	MendeManual-60
+Oo! ngi ngi gools, XY nya klasihunis	Ah! I know him, he is in my class	2334.0	MendeManual-60
+Ngi nemahun le ngo	He is very clever	2456.0	MendeManual-60
+Ke a sei waa glua klasihun.	But he is very playful in class	2513.0	MendeManual-60
+Nya pen nge gil hunge va a bie koo ‘bi ngi lahin	Infact I was thinking of telling you so that you will warn him	2632.0	MendeManual-60
+mana, nya logoi bi	only that I want you to help	2916.5	MendeManual-60
+kpoma ye nya ma ye	me with this matter because	2985.0	MendeManual-60
+hindei ngihun, gbeva	a child does not belong to	3033.5	MendeManual-60
+ndoi ta numu yila	ene person. Always keep an	3101.0	MendeManual-60
+woo ii Ile. Ya yama	eye on him so that he can	3157.0	MendeManual-60
+lawo ngi ma nahin 4	have some fear	3213.5	MendeManual-60
+Gblianga	Near	380.0	MendeManual-63
+Kohun	Inside	380.0	MendeManual-63
+Mahun	Top/upon	442.5	MendeManual-63
+Nda	At	442.5	MendeManual-63
+Mbu	In/into/under	501.0	MendeManual-63
+He /vaa	"For ""5"	501.0	MendeManual-63
+Nduahun	Between	560.0	MendeManual-63
+Ndia	Between/middle/among	560.0	MendeManual-63
+Nga	On/fat/in/from	622.0	MendeManual-63
+Hun	In/from/te	622.0	MendeManual-63
+Kakahun	Side	682.5	MendeManual-63
+Woma va	Behind	682.5	MendeManual-63
+Gulo	Infront	736.0	MendeManual-63
+They are	in the farm	1155.0	MendeManual-63
+Sao gbuaa	kpaahun	1213.5	MendeManual-63
+Sao has come	from the farn	1213.5	MendeManual-63
+Mu 13	kpaahun	1275.5	MendeManual-63
+Let us go	to the farm	1275.5	MendeManual-63
+Don't take	it into the house	1626.0	MendeManual-63
+WNgi gbe	bu	1687.0	MendeManual-63
+Drive him	from the house	1687.0	MendeManual-63
+Gone 1s	tibii bu	1747.0	MendeManual-63
+The cat	is under the table	1747.0	MendeManual-63
+LESSON	FOORTEEN OO	212.0	MendeManual-66
+Kini Somos buaa-e	Hello Mr Momoh	629.5	MendeManual-66
+Bi nja we leila plo- tisiea ti luahun?	Did you make drainages in~-be- tween the plots?	249.0	MendeManual-67
+gei ia a nge	the last time	433.0	MendeManual-67
+Ke nya sina wama ngi kpeteihun lo. Biya mbei hinma, ba ti lootoo waa gblagblaga	Then E'll be coming tomorrow to see the swamp. When trans- planting the rice, do not cluster them together	552.0	MendeManual-67
+2 bia vul lo sina	<I suppose you'll be coming	785.0	MendeManual-67
+_ wa. ma bi na Ilo?	tomorrow to see there your~	850.5	MendeManual-67
+Ke ba nya malelo	Then you will meet me	1088.0	MendeManual-67
+Mua lo	We shall see	1145.5	MendeManual-67
+Benbei	Fishing net	1441.0	MendeManual-67
+Bumbui	Fishing Trap	1503.0	MendeManual-67
+Due	Brush	1560.0	MendeManual-67
+Due kpe	Brushing time	1619.0	MendeManual-67
+Felei	Winnowing time	1679.0	MendeManual-67
+Gaaga kpe	Time for clearing after burning	1740.0	MendeManual-67
+Hambui	An object made of wire hung over fire for drying fish or meat	1799.0	MendeManual-67
+Kali	Hoe	1905.0	MendeManual-67
+Kondei	Mortar	1970.0	MendeManual-67
+Koni	Axe	2029.0	MendeManual-67
+Kobot	Mat (made out cf bamboo)	2089.5	MendeManual-67
+Kpakai	Three legged wooden chair typical of Mendes used especially an farms	2146.5	MendeManual-67
+Kpasei	Circular object used for climbing palm trees	2323.0	MendeManual-67
+Kpangbei	Broom	2440.0	MendeManual-67
+Kpawei	Forked stick	2498.0	MendeManual-67
+Kpuloi	Gourd/keg	2556.0	MendeManual-67
+Kpoe	Farm house	2617.0	MendeManual-67
+Lavulei	Sling used for scaring birds	2674.5	MendeManual-67
+Mbahul	Seed rice	2734.0	MendeManual-67
+Mbowei	Knife	2792.5	MendeManual-67
+Mbale bowei	Sickle/knife used for cutting rice	2851.0	MendeManual-67
+Ndoe bowel	Brushing knife	2969.0	MendeManual-67
+Mbogbeili	Cutlass	3027.0	MendeManual-67
+Ps bogbel	Cutlass for cutting down trees	3086.0	MendeManual-67
+Ndogboi	Bush	3142.0	MendeManual-67
+Ndoli	Hook	3200.0	MendeManual-67
+Ngombui	Fire	3260.0	MendeManual-67
+Piyei	Container for putting	3317.0	MendeManual-67
+Po kpee	Time for cutting down large trees/felling time co.	437.0	MendeManual-68
+Kpaa wati	Burning time	553.0	MendeManual-68
+Mbawa kpee	Ploughing time	612.0	MendeManual-68
+Gugbia kpee	Weeding time	671.0	MendeManual-68
+Mbale kpee	Harvest season	734.0	MendeManual-68
+Mba vai	Germinated rice	966.5	MendeManual-68
+Nyahagaa ti lols bi yeya? Nya nyahin yakpe	How many wives have you t have only one wife	405.0	MendeManual-69
+Nya nyahangaa ti lsolu	I have five wives	762.0	MendeManual-69
+Nya nyahin haa vonu	My wife died last year	822.0	MendeManual-69
+Nya nyahin ii ya ndo lei	My wife hasn’t a child yet	881.0	MendeManual-69
+Nya legaa ti nge ls	This is my chilldren’s	942.5	MendeManual-69
+Kpale lidove	pain	828.0	MendeManual-7
+Gbembe	board	828.0	MendeManual-7
+Nyoko	sugar cane	890.0	MendeManual-7
+Yoni	Bird	1305.5	MendeManual-7
+Yama	Bload	1363.0	MendeManual-7
+Polon	Far	1427.5	MendeManual-7
+Gbuy	Heavy falling sound	1480.0	MendeManual-7
+Ita	One	1897.0	MendeManual-7
+Fele	Two	1948.0	MendeManual-7
+Sawa	Three	2021.5	MendeManual-7
+Naani	Four	2073.5	MendeManual-7
+Loslu	Five	2131.0	MendeManual-7
+Weta	Six	2190.5	MendeManual-7
+Wofla	Seven	2257.0	MendeManual-7
+Wayakpa	Eight	2297.0	MendeManual-7
+Taalu	Nine	2366.5	MendeManual-7
+Puv	Ten	2428.5	MendeManual-7
+Pou mahun yila	Rieven	2487.0	MendeManual-7
+Numu fele gboyongs	Forty	2664.5	MendeManual-7
+Nusa gboyongs mahun puu	Thirty,	2609.0	MendeManual-7
+Numu fele gboyongo mahun puu	Fifty	2718.5	MendeManual-7
+Kumu sawa gboyong?	Sixty	2783.5	MendeManual-7
+Numu sawa gboyongo mahun puu	Seventy	2839.0	MendeManual-7
+Numu naani gboyongs	Eighty	2898.0	MendeManual-7
+Numu naani gboyong>s mahun puu	Ninety	2956.5	MendeManual-7
+Honds yila	‘One hundred	3010.0	MendeManual-7
+Tausi yila	One thousand	3065.0	MendeManual-7
+Ita	used only in counting.	3311.5	MendeManual-7
+Kini Blema biana	Goodday Mr Brima	400.0	MendeManual-70
+Mm, ndiamo bi sis	Yea, goodday friend	459.0	MendeManual-70
+Wa mu mehen mee fEnen, ndake na gbategoi	Come and let's eat	520.0	MendeManual-70
+Ndake, wa bs ho bi kulo me	Man, come and have a bit at least	758.0	MendeManual-70
+genda mehen mia ha ngi	eaten some morning food	994.5	MendeManual-70
+ye kave mia nya	today and I’m still fed.	1052.0	MendeManual-70
+ma. Kone je i ye a wati yeka	Please let it be another time	1112.0	MendeManual-70
+Mm, ngi humeinga ye	O.k. I’ve heard you	1231.0	MendeManual-70
+Ke ghe ngi fo teihun nya wama	Let me go to town, I'll be back	1352.0	MendeManual-70
+E-ye, malo.	O.k. see you	1469.0	MendeManual-70
+Nya govengoi a	I’m alright/I’m fed	1760.0	MendeManual-70
+Nya foma teihun ngi wa	I’m going to town and back	1821.0	MendeManual-70
+eo	Tokopepe	2105.0	MendeManual-70
+Taa/Ke	and	601.0	MendeManual-72
+ma,	we	670.0	MendeManual-72
+oO	Sheik and Fred are writing the	719.0	MendeManual-72
+O! Suffix	especially when calling out ina	3401.0	MendeManual-72
+Bo buaa	Helio friend	1129.0	MendeManual-75
+Mm, nyande bi sie	Hello madam	1186.0	MendeManual-75
+Bi ye gbua ma?	Where are you coming from?	1308.0	MendeManual-75
+Nai gbua Saison 19	I’m coming from Freetown	1365.0	MendeManual-75
+GBeva na?	How are things	1486.0	MendeManual-75
+Ngi ye nyamu lui na	Not bad	1542.5	MendeManual-75
+Gbo bi nya yoyoi la?	What did you bring for me	2774.5	MendeManual-75
+Bia yeso nya glagbatei ve le	Give me first what you kept for me	1719.5	MendeManual-75
+Gbhe va?	Why?	1898.0	MendeManual-75
+Kulo gbate lo a joyo	What is kept for someone	1951.0	MendeManual-75
+Ke gbe ngi ya a koksoi	Then let me be finding it	2183.0	MendeManual-75
+Nya be nga ya a joyoi gokooi	T will alse be looking out for your gift	2242.0	MendeManual-75
+E-ye	O.K.	2422.0	MendeManual-75
+Ghee ngi ya ndolo	Let me be finding it	2833.5	MendeManual-75
+Migbe mia ba wa?	When will you come back?	429.5	MendeManual-76
+Migbe mia ba yama?	When wili you be returning?	489.0	MendeManual-76
+Migbe mia ba 1i?	When will you go?	548.0	MendeManual-76
+Migbe mia bi lima?	When will you be going?	606.0	MendeManual-76
+Sina yekei mia ngi lima	I shall be going on the day after tomorrow	725.0	MendeManual-76
+Sina yekel mia ngi li	I shall go on the day after tomorrow	847.0	MendeManual-76
+Gbhegi yekei mia mgi wani	I came on the day after yesterday	964.5	MendeManual-76
+Ngi gbua le Makali io	I am just coming from Makali	1082.0	MendeManual-76
+Nya hondei nyanilo ji ngi ye wama	My honda brokedown when I was coming	1142.0	MendeManual-76
+Motoi nyanils a mue	Our vehicle brokedown	1261.0	MendeManual-76
+eaten”. giving advice,	They have sense and salt. They are mostly used for settling disputes or giving warning.	1729.5	MendeManual-76
+Yeso	first	469.0	MendeManual-8
+Senti yila ve mbe	Give me one cent	765.0	MendeManual-8
+Nya yeso ngi wank occurs with the	I came first prefix ‘ye’ it means ‘one of’	888.0	MendeManual-8
+Yengila wn bagihun	Put one of them in the bag	1173.0	MendeManual-8
+Yengila be ii nya yeya	I don’t have anyone	1236.0	MendeManual-8
+Yilakpe (mutated form	yakpe}	1351.0	MendeManual-8
+Ngila	yila	2819.0	MendeManual-8
+Fengs	vengs	2878.5	MendeManual-8
+re	lie ya lengi-lengi, i loi kulohin ko i haa.	3257.0	MendeManual-80
+the villages. the four ropes tied	They left their father at the junction with round him.	1901.0	MendeManual-81
+Transiation	A Handsome Youngman	236.0	MendeManual-83
+MENDE	ENGLISH	393.0	MendeManual-84
+Gbe ngi wa	Wait till I come	511.5	MendeManual-84
+Nya mawo kulo	Wait for me a little	571.0	MendeManual-84
+Wa mul wa mui?	Come let's goa	631.0	MendeManual-84
+Ndi mia bi pie ma?	Are you going?	758.0	MendeManual-84
+Bi ya nga va ngi ma hoe	When you go extend my greetings to him/her	815.0	MendeManual-84
+Bi totoa a mehee yilla? _	Have you started cooking the food?	934.0	MendeManual-84
+Njei ji a gulo bi va	Will this water be enough for you?	1044.0	MendeManual-84
+Bi ya ge mils?	Where did you go recently	1164.0	MendeManual-84
+Wodsgba ngi foi na ya Saange mia ngi gbua na	I have never been there	1224.0	MendeManual-84
+Pol io mbi?	Is Paul here?	1402.0	MendeManual-84
+Hiye na A gbua gitiya	Get up from there	1455.5	MendeManual-84
+Baa jJuwa nya ma	Don’t be afraid of me	1572.0	MendeManual-84
+Baa woo	De not cry	1634.5	MendeManual-84
+A longo	Be quiet	1693.0	MendeManual-84
+Gbhe nya me	Leave me alone	1754.5	MendeManual-84
+Baa nya vawei	Do not disturb me	1810.5	MendeManual-84
+Baa ndee gula nya ma	Don't Lie on me	1875.5	MendeManual-84
+Bii makei	You have no manners	1929.0	MendeManual-84
+Hei panda	Sit carefully/sit properly	1975.0	MendeManual-84
+Ngi lima a gooma welo	I am going on foot	2047.5	MendeManual-84
+Nya lengo a ye pekei.	I want the other one	2104.0	MendeManual-84
+Waa a peka	Bring another one	2157.0	MendeManual-84
+ne	He/she/it is there	2266.0	MendeManual-84
+Lampoi longa	Light the lamp/lantern	2332.0	MendeManual-84
+Kele ngi t2	Let me see it	2400.0	MendeManual-84
+Konele nde ghoma	Please say it again	2451.5	MendeManual-84
+Ti ge a nge	Show them to me	2509.0	MendeManual-84
+Bi humenga?	Have you understood?	2570.0	MendeManual-84
+Yembui a gboo7?7 ye boi ji loi Mende yie hun	What is its meaning?	2622.5	MendeManual-84
+‘Bia ii le/Bia ya na	Not you	2755.0	MendeManual-84
+Bii kpoyoi le? ya Ngi kpoysa	Haven't you finished it yet? y have finished (it)	2799.0	MendeManual-84
+Ti bi lei mi 197	Where were you born?	2926.0	MendeManual-84
+Wa mbe kaka	_ Come here quickly	2974.0	MendeManual-84
+Wu keke yakpe?	Do you have the same father?	3035.5	MendeManual-84
+Nji main is nya ma	I am sleepy	3104.5	MendeManual-84
+Nja gboemei lo nya ma	I am thirsty	3159.0	MendeManual-84
+Wa a njei ngi kpee	Bring me some water to arink	3209.5	MendeManual-84
+Wa a njei ngi mua	Bring me some water to bathe	3268.0	MendeManual-84
+Baa lema ba	Don't forget it	3324.0	MendeManual-84
+Baa lema nya ma	Don’t forget me	3389.5	MendeManual-84
+Baa nde nuu gbi ma	Don’t tell anyone	311.0	MendeManual-85
+Baa ngi lee	Don’t beat him	370.0	MendeManual-85
+Baa nyani, fe mbe	Don't spoil it, give it	426.5	MendeManual-85
+Baa nya nemu	Don't me	556.0	MendeManual-85
+Baa kputa	Dont'’t burst it	605.0	MendeManual-85
+Saa mbo	Don't dig it	666.0	MendeManual-85
+Baa nya loi a pumoi la yana	Den’'t call me whiteman	727.0	MendeManual-85
+Konele mavula	Please hurry up	847.0	MendeManual-85
+Ba jaa la	Don't touch it	901.0	MendeManual-85
+Baa gbiti	Don’t touch it again	960.0	MendeManual-85
+Baa ngeya	Don’t buy it	1022.0	MendeManual-85
+Baa. li. na	Don’t go there	1085.0	MendeManual-85
+Wa bi lo nya guls	Come and stand in front of me	1143.0	MendeManual-85
+Gbe le?	What is it?	1376.0	MendeManual-85
+Bi toa?	Have you seen it?	1440.0	MendeManual-85
+Nya gbe	Here I am/Look at me	1497.0	MendeManual-85
+Ndomei na bengo bi ma	That shirt suits you	1617.0	MendeManual-85
+Ngi 1lii nyanings na va	He is sad for that	1675.0	MendeManual-85
+Mua ta loa ha	We have seen each other	1795.0	MendeManual-85
+Mu venjo kpee	us	1974.0	MendeManual-85
+	The big one a	2084.0	MendeManual-85
+Yehaaleyei	The first one	2141.5	MendeManual-85
+Ngi nyahei lo koihun li baa la	His wife is pregnant.	2253.0	MendeManual-85
+Dii	Heart	520.0	MendeManual-86
+Dihun gaiei	Backbone	520.0	MendeManual-86
+Gowohini	Big toe	582.0	MendeManual-86
+Gowowoma jate	Tendon at back of foot	582.0	MendeManual-86
+Sombul	Lower part of belly	640.0	MendeManual-86
+Gowoyul	Toe	695.0	MendeManual-86
+Gbatoi	Back teeth	758.0	MendeManual-86
+Gbowi	Ankle	758.0	MendeManual-86
+Hamei pui	Hip/waist	819.0	MendeManual-86
+Hakai	Calf	819.0	MendeManual-86
+Jovotel	Testicles	875.0	MendeManual-86
+Kowe (gowe	Foot/leg	993.0	MendeManual-86
+Kowolokoi	Left hand	993.0	MendeManual-86
+Kpaki	Shoulder/ upper arm	1055.0	MendeManual-86
+Kpaie	Thigh	1055.0	MendeManual-86
+Kpambui	Armpit	1117.0	MendeManual-86
+Kpele	Beard	1170.5	MendeManual-86
+Kponi	Brain	1170.5	MendeManual-86
+Kponi	Penis	1232.0	MendeManual-86
+Kpokpse	Chin	1232.0	MendeManual-86
+Lagui	Lip	1290.0	MendeManual-86
+Lokovele	Palm	1290.0	MendeManual-86
+Lokoyui	Finger	1348.5	MendeManual-86
+Lokohini	Thumb	1348.5	MendeManual-86
+Mbule	Penis	1406.0	MendeManual-86
+Ngami	Face,. eye	1464.0	MendeManual-86
+Ngama gbekei fo	Eyebrow/ eyelash	1464.0	MendeManual-86
+Ngombi	Knee	1522.0	MendeManual-86
+Njombui	Hair of body	1582.0	MendeManual-86
+Ngengalui	Fingernail	1582.0	MendeManual-86
+‘Ngundiel	Hair of head	1640.0	MendeManual-86
+Ndenge	Pubic Hair	1640.0	MendeManual-86
+Ngonge	Back of head	1701.0	MendeManual-86
+Nyeni	Liver	1757.0	MendeManual-86
+Nyini.	Breasts	1757.0	MendeManual-86
+Nokol	Elbow	1815.0	MendeManual-86
+Kole	Skin	1873.0	MendeManual-86
+Kowodigbi	Heel	1873.0	MendeManual-86
+Pekoi	Hand	1931.0	MendeManual-86
+Koi/goi	Belly	1931.0	MendeManual-86
+Ngotui	Buttocks	1989.0	MendeManual-86
+Yejalokoai	Right hand	1989.0	MendeManual-86
+Pomei(womei})	Back	2048.0	MendeManual-86
+Ndimei	Chest.	2048.0	MendeManual-86
+Yakei	Side	2104.5	MendeManual-86
+Nguli	Tree	2341.0	MendeManual-86
+Kpiti	Grass	2341.0	MendeManual-86
+Foni	Elephant grass	2397.0	MendeManual-86
+Ngale	Very tall coarse grass	2397.0	MendeManual-86
+Kowui	Wood	2456.0	MendeManual-86
+Tife.	Leaf, twig	2514.0	MendeManual-86
+Mbekei	Branch	2572.0	MendeManual-86
+Ndawei	Leaf	2572.0	MendeManual-86
+Nyui	Corn	2632.0	MendeManual-86
+Kale	Seed	2632.0	MendeManual-86
+Kowol	Fallen tree	2690.0	MendeManual-86
+Pote	Millet	2690.0	MendeManual-86
+Hewe wuli	Tree with a medicinal.	2751.0	MendeManual-86
+Koji	Garden eggs	2751.0	MendeManual-86
+Njawuli	Soap tree/	2808.5	MendeManual-86
+¥Yogui	Tree (stains	2923.0	MendeManual-86
+Yolui	Pibrous of	2923.0	MendeManual-86
+Nguwe	Silk cotton tree	3043.0	MendeManual-86
+Kpedei	Red hardwood tres	3101.0	MendeManual-86
+Tijoi	Hardwood with fibrous bark	3157.0	MendeManual-86
+Mbeli	Hardwood tree with buttress	3214.0	MendeManual-86
+n°	Semi	3273.0	MendeManual-86
+os	tree	3328.0	MendeManual-86
+Mbei	Rice	262.5	MendeManual-87
+Nyokoe	Sugar cane	262.5	MendeManual-87
+Kpsie	Eoq plant	321.0	MendeManual-87
+Keti	Guinea corn	321.0	MendeManual-87
+Mambui	Tree with soft nuts, edible	377.0	MendeManual-87
+Kpatoi	A kind of wild walnut	377.0	MendeManual-87
+Gbhoji	Tree with yellow palm like fruit with plea- sant taste	492.0	MendeManual-87
+Bunl	Baboon apple tree	551.0	MendeManual-87
+Goyave i	Guava	671.0	MendeManual-87
+‘Lumbe_	Orange tree	732.0	MendeManual-87
+Boboe Jenje Konoe	Funtania rubber vine rubber tree	788.0	MendeManual-87
+Yumbu yambe	A tree with red fruit, size of an apple, rough skin, red inside	788.0	MendeManual-87
+Houlel	Tree with juice used for catching	961.0	MendeManual-87
+Nyi	Fish	1374.0	MendeManual-87
+Kenj gui	Tree snake, thin with brown stripes	1374.0	MendeManual-87
+Ndili	Python	1432.5	MendeManual-87
+Ndove kpoli	Poiscnous small fat anake ift dong	1493.0	MendeManual-87
+Nguli	Black anake	1610.0	MendeManual-87
+Ndambe	Oracodile	1672.0	MendeManual-87
+Néawudu gali	Green snake	1736.0	MendeManual-87
+Koli	Red-headed lizard	1736.0	MendeManual-87
+Paani	Iquane	1797.0	MendeManual-87
+Kpend	Speckled lizard	1855.5	MendeManual-87
+Kogo-njei	Slow head at each end, tail same shape as head	1855.5	MendeManual-87
+Ndokuli	Chameleon	1964.0	MendeManual-87
+Ngakui	Crab	2025.5	MendeManual-87
+Jiben	Bull-frodg	2082.0	MendeManual-87
+Ghasonde	Green tree frog	2138.0	MendeManual-87
+Ndovei	Toad	2193.0	MendeManual-87
+Konduz	Small fish found in mangrove aWwamps	2254.0	MendeManual-87
+Keegbi	Croaking frog	2254.0	MendeManual-87
+Banasowe	FPleshy coloured climbing frog	2314.0	MendeManual-87
+Kenji	Fresh water fiying Fish	2495.5	MendeManual-87
+Hakui	Turtle	2549.5	MendeManual-87
+Kali	Snake	2614.0	MendeManual-87
+Bonge	Bonga	2614.0	MendeManual-87
+Tupui	Puff-adder	2674.0	MendeManual-87
+Tumi	Shark	2674.0	MendeManual-87
+Kokagbie	Grey eagle	2913.0	MendeManual-87
+Sekuli	Small speck- led hawk chases small virds/ chickens	2913.0	MendeManual-87
+Sekpendei	Grey hawk	2968.0	MendeManual-87
+Yibe	Vulture	3025.0	MendeManual-87
+Gomi	Black white crow	3085.0	MendeManual-87
+Kpovovui	Green pigeon	3196.0	MendeManual-87
+Sasaloi	Red~legged partridge.	3196.0	MendeManual-87
+Gowal	Clock-bird	3254.0	MendeManual-87
+Kpiangbie	Hornbill	3312.0	MendeManual-87
+	Feeds more at night	3312.0	MendeManual-87
+Mrakui	Weaver bird	3369.5	MendeManual-87
+Pow	Pigeon	250.0	MendeManual-88
+Hokel	Guinea Fowl	250.0	MendeManual-88
+Bomukuli	Dove	313.0	MendeManual-88
+Koksye	Bush fowl]	313.0	MendeManual-88
+Fabui	Parrot	371.5	MendeManual-88
+Fokuloid	Small brown partridge.	371.5	MendeManual-88
+Kakiboi	King fisher	428.5	MendeManual-88
+Techini	Gock	485.0	MendeManual-88
+	Feeds on ground	485.0	MendeManual-88
+Dowul	Duck	545.0	MendeManual-88
+Bogbotol Yonemgbe	Turkey body white, beak yellow	603.0	MendeManual-88
+Guile	Toucon-twe headed bird	603.0	MendeManual-88
+Nduli	Brown bird with white breast and mournful cry	719.0	MendeManual-88
+Kowe	Large black and white eagle	841.0	MendeManual-88
+Tei	Fowl	960.0	MendeManual-88
+Geli	Brown fish hawk	1020.0	MendeManual-88
+Testel	Chicken	1020.0	MendeManual-88
+Mbui	Owl	1079.0	MendeManual-88
+Kingi	Grey wading	1139.0	MendeManual-88
+Tokpol	Palm tree	1439.0	MendeManual-88
+Hauvui	Raffia, vinifera	1439.0	MendeManual-88
+Semi	Bambso	1498.0	MendeManual-88
+Keni	Bambco	1556.0	MendeManual-88
+Kell	Sharp-leafed pain	1556.0	MendeManual-88
+KRaavui	Rattan	1615.0	MendeManual-88
+Potoli	Cocenut palm	1670.0	MendeManual-88
+Mbalud	Cane	1670.0	MendeManual-88
+Kewe	Fan palm	1727.0	MendeManual-88
+Ngavui	Inferior date palm	1727.0	MendeManual-88
+Kaje	Plassava	2085.0	MendeManual-88
+Tokpo nyinii	Flawer of oil pain	2142.0	MendeManual-88
+Roni	Raffia cane	2142.0	MendeManual-88
+Nangule	Paim kernel oi.	2197.0	MendeManual-88
+Tokps loi	Palm wine	2264.0	MendeManual-88
+Kale	Kernel	2318.0	MendeManual-88
+Noulo gbei	Palm oil	2318.0	MendeManual-88
+Taavukei	Snult	2555.0	MendeManual-88
+Tawe	Tobacco	2555.0	MendeManual-88
+Kamaanei	A plant with coarse leaves used for sand paper	2611.0	MendeManual-88
+Kpule	A large gourd	2611.0	MendeManual-88
+Njows	A large poisonous bean	2666.0	MendeManual-88
+Fande wui	Cotton plant	3130.0	MendeManual-88
+Pawoi	Wild pain	3186.0	MendeManual-88
+elephant	Fali	3247.0	MendeManual-88
+	Fali Mushroom rungus	3247.0	MendeManual-88
+High Tone	Low Tone	1644.0	MendeManual-9
+Ndé	gay it	1760.5	MendeManual-9
+B5i5 intestine	hat/cap	1760.5	MendeManual-9
+La	lie down	1875.0	MendeManual-9
+He	biessing	1875.0	MendeManual-9
+Rising Glide	Falling Glide	2221.0	MendeManual-9
+Tes	The fowl/chicken	2345.0	MendeManual-9
+Ngil	X not	2345.0	MendeManual-9
+Ndoli	Hook	2818.0	MendeManual-9
+Nd6li	Dance.	2818.0	MendeManual-9
+Mbéw6	Clay	2935.0	MendeManual-9
+Mbow™	To fly	2935.0	MendeManual-9
+Bee li?	Won’t you go?	3229.0	MendeManual-9
+Bee li mia ma lima. mia ma lima?	You can’t ga.	3287.0	MendeManual-9
+Ngewo	Godt	356.0	MendeManual-90
+Ndobleisia	Inhabitants of the lower world	356.0	MendeManual-90
+Ngelegohun	Heaven	414.0	MendeManual-90
+Ngelemahun	Land’ of living	478.0	MendeManual-90
+Ndao	Lower world	599.0	MendeManual-90
+Raiwai	Devil, spirit	658.0	MendeManual-90
+Kpeteihun	Swamp with. running water	898.0	MendeManual-90
+Tumbeke	Stars	898.0	MendeManual-90
+Batihun	Swanp	954.0	MendeManual-90
+Fofowaihun	Large clear- ing in the bush	1012.0	MendeManual-90
+Fofoi	Clearing	1012.0	MendeManual-90
+Ngiyei	Hili	1072.0	MendeManual-90
+Pope	Pond	1131.0	MendeManual-90
+Popawai	Large lake	1193.0	MendeManual-90
+Ko	East	1193.0	MendeManual-90
+Kpundohun	West	1246.5	MendeManual-90
+Bulomi	Plat ground	1246.5	MendeManual-90
+Kpolilei os	River mouth, entrance in the man-	1306.5	MendeManual-90
+Bulihun	Ground raised above water	1306.5	MendeManual-90
+Kpoli	River	1426.0	MendeManual-90
+Fibi-	Table	1725.5	MendeManual-90
+Pulul	Pillow	1725.5	MendeManual-90
+Kpukoi	Bed	1785.0	MendeManual-90
+Kana	Box	1785.0	MendeManual-90
+Tenti	Mosquito	1844.0	MendeManual-90
+Naivali	Broom/fly brush	1844.0	MendeManual-90
+Kpangbe	Broom	1905.0	MendeManual-90
+Fel	Pot	1962.0	MendeManual-90
+Mite	Spoon	1962.0	MendeManual-90
+Foki	Fork	2018.0	MendeManual-90
+Mbowe	Knife	2018.0	MendeManual-90
+Sanl	Bottle	2077.0	MendeManual-90
+Glasi	Glass	2077.0	MendeManual-90
+Bole	Cup	2135.0	MendeManual-90
+Pleti	Plate	2135.0	MendeManual-90
+Kalui	Basin	2187.5	MendeManual-90
+Meme	Mirror	2187.5	MendeManual-90
+Fajii	Bucket	2249.0	MendeManual-90
+Kloki	Clock	2249.0	MendeManual-90
+Wasi	Watch	2305.5	MendeManual-90
+Kpegbe	Wooden comb used by women	2305.5	MendeManual-90
+Komui	English comb	2365.0	MendeManual-90
+Sambe	Broad open basket	2427.5	MendeManual-90
+Konde	Mortar	2477.0	MendeManual-90
+Ngale	Mat	2537.0	MendeManual-90
+Gitii	Pestle	2537.0	MendeManual-90
+Kogbe	Hammer	2604.0	MendeManual-90
+Mbogbe	Cutlass	2604.0	MendeManual-90
+Kpatoi	Axe	2650.5	MendeManual-90
+Hipoi	Heavy hammer	2650.5	MendeManual-90
+Bune	Gimlet	2710.0	MendeManual-90
+Gbanyi	Pincers	2710.0	MendeManual-90
+Sowi	Saw	2780.0	MendeManual-90
+Kali	Hoe	2780.0	MendeManual-90
+Londimi	Nail	2835.0	MendeManual-90
+Goli	Scissors	2835.0	MendeManual-90
+Rewui	Seat	2897.0	MendeManual-90
+Ndoli	Hook.	2897.0	MendeManual-90
+Kani gboli	Gold	381.5	MendeManual-91
+Tongos	Brass	381.5	MendeManual-91
+goli	Silver	441.5	MendeManual-91
+Koli	Iron	441.5	MendeManual-91
+Toengoboli	Copper	500.0	MendeManual-91
+Sumbul	Lead	500.0	MendeManual-91
+Teli	Black	729.0	MendeManual-91
+Bulu	Blue	794.0	MendeManual-91
+Telings	It is black	794.0	MendeManual-91
+Ngahunpui	Assorted/	854.0	MendeManual-91
+Kpou	Red/brown	854.0	MendeManual-91
+Punen	Green	915.0	MendeManual-91
+Sewesews	Very clean.	1152.0	MendeManual-91
+Qdembi	Delay	1152.0	MendeManual-91
+Kpakpawui	Ladder	1210.0	MendeManual-91
+Ndogbot	Bush	1210.0	MendeManual-91
+Juumbumet	Sinner	1329.5	MendeManual-91
+Nanyei	Sound	1329.5	MendeManual-91
+Kpongbe	Pound/grind/	1389.0	MendeManual-91
+Mbilii	Drum	1389.0	MendeManual-91
+Tavei	Pipe	1446.0	MendeManual-91
+Yemol	Mother-in-law	1507.5	MendeManual-91
+Koti	Stone	1507.5	MendeManual-91
+Mbilei/	Father-in-law	1564.0	MendeManual-91
+Kawe	Peel	1564.0	MendeManual-91
+Mblei	Pawei	1622.0	MendeManual-91
