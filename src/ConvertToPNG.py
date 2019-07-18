@@ -54,8 +54,6 @@ def convert_pdf(filename, output_path, resolution=350):
                 img.save(filename=image_filename)
 
 
-# mendepath = "/Users/Chris/Documents/Grad School/UW/OCR/mendemanual.pdf"
-# pages = pdf.convert_from_path(mendepath)
 inpath = args["PDF"]
 outpath = args["output"]
 
